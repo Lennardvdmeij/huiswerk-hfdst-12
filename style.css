@@ -3,7 +3,7 @@ header {
     background-color: goldenrod;
 }
 
-section {
+div {
     height: 600px;
     background-color: blueviolet;
 }
@@ -89,8 +89,4 @@ td {
 
 #cel16 {
     background-color: rgb(54, 49, 100);
-}
-
-#cel17 {
-    background-color: rgb(58, 87, 54);
 }
