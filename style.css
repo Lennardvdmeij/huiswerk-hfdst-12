@@ -1,0 +1,96 @@
+header {
+    height: 300px;
+    background-color: goldenrod;
+}
+
+section {
+    height: 600px;
+    background-color: blueviolet;
+}
+
+footer {
+    height: 300px;
+    background-color: aquamarine;
+}
+
+table {
+    width: 1000px;
+    height: 500px;
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
+
+.tabelplaatje {
+    height: 100px;
+}
+
+#cel1 {
+    background-color: azure;
+}
+
+#cel2 {
+    background-color: rgb(58, 54, 75);
+}
+
+#cel3 {
+    background-color: rgb(10, 77, 25);
+}
+
+#cel4 {
+    background-color: rgb(163, 71, 28);
+}
+
+#cel5 {
+    background-color: rgb(20, 185, 185);
+}
+
+#cel6 {
+    background-color: rgb(233, 132, 208);
+}
+
+#cel7 {
+    background-color: rgb(9, 22, 77);
+}
+
+#cel8 {
+    background-color: rgb(150, 161, 47);
+}
+
+#cel9 {
+    background-color: rgb(29, 165, 29);
+}
+
+#cel10 {
+    background-color: rgb(55, 17, 80);
+}
+
+#cel11 {
+    background-color: rgb(100, 96, 42);
+}
+
+#cel12 {
+    background-color: rgb(238, 63, 121);
+}
+
+#cel13 {
+    background-color: rgb(180, 240, 40);
+}
+
+#cel14 {
+    background-color: rgb(255, 0, 0);
+}
+
+#cel15 {
+    background-color: rgb(123, 250, 250);
+}
+
+#cel16 {
+    background-color: rgb(54, 49, 100);
+}
+
+#cel17 {
+    background-color: rgb(58, 87, 54);
+}
